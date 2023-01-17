@@ -1,0 +1,9 @@
+venv
+/.idea
+__pycache__
+dao/__pycache__
+helpers/__pycache__
+views/__pycache__
+.DS_Store
+service/__pycache__
+tools/__pycache__
